@@ -13,4 +13,4 @@ function setWhiteListRefferal(address _to, uint _per) external onlyOwner{
  require( whiteListedAddresses[_refferedBy] > 0 , "not white listed");
  and give the custom refferal percentage
  
- ## If later is the case please tell me so that i can make the changes
+ ## If latter is the case please tell me so that i can make the changes
